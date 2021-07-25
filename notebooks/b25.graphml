@@ -1,0 +1,1029 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="highway" attr.type="string" for="node" id="d4" />
+  <key attr.name="street_count" attr.type="string" for="node" id="d3" />
+  <key attr.name="x" attr.type="string" for="node" id="d2" />
+  <key attr.name="y" attr.type="string" for="node" id="d1" />
+  <key attr.name="crs" attr.type="string" for="graph" id="d0" />
+  <graph edgedefault="directed">
+    <node id="7648015506">
+      <data key="d1">40.7033698</data>
+      <data key="d2">-73.9925661</data>
+      <data key="d3">4</data>
+    </node>
+    <node id="8262935330">
+      <data key="d1">40.70331</data>
+      <data key="d2">-73.9907988</data>
+      <data key="d3">4</data>
+    </node>
+    <node id="42469329">
+      <data key="d1">40.7033102</data>
+      <data key="d2">-73.9925685</data>
+      <data key="d3">4</data>
+    </node>
+    <node id="214362644">
+      <data key="d1">40.7033245</data>
+      <data key="d2">-73.9930575</data>
+      <data key="d3">3</data>
+    </node>
+    <node id="999184452">
+      <data key="d1">40.7031695</data>
+      <data key="d2">-73.9941178</data>
+      <data key="d3">3</data>
+    </node>
+    <node id="8262934769">
+      <data key="d1">40.703003</data>
+      <data key="d2">-73.9942775</data>
+      <data key="d4">crossing</data>
+      <data key="d3">4</data>
+    </node>
+    <node id="8262934768">
+      <data key="d1">40.7028672</data>
+      <data key="d2">-73.9942578</data>
+      <data key="d4">crossing</data>
+      <data key="d3">4</data>
+    </node>
+    <node id="8262934770">
+      <data key="d1">40.702786</data>
+      <data key="d2">-73.994309</data>
+      <data key="d4">crossing</data>
+      <data key="d3">4</data>
+    </node>
+    <node id="3174844139">
+      <data key="d1">40.7027544</data>
+      <data key="d2">-73.9942288</data>
+      <data key="d3">3</data>
+    </node>
+    <node id="3174844149">
+      <data key="d1">40.7026151</data>
+      <data key="d2">-73.9938376</data>
+      <data key="d3">4</data>
+    </node>
+    <node id="3174844145">
+      <data key="d1">40.7024085</data>
+      <data key="d2">-73.9932999</data>
+      <data key="d3">3</data>
+    </node>
+    <node id="598054754">
+      <data key="d1">40.7020174</data>
+      <data key="d2">-73.9926204</data>
+      <data key="d4">traffic_signals</data>
+      <data key="d3">4</data>
+    </node>
+    <node id="3174844140">
+      <data key="d1">40.7018454</data>
+      <data key="d2">-73.9923976</data>
+      <data key="d3">4</data>
+    </node>
+    <node id="465132522">
+      <data key="d1">40.7015529</data>
+      <data key="d2">-73.9920171</data>
+      <data key="d3">3</data>
+    </node>
+    <node id="7014570048">
+      <data key="d1">40.7012292</data>
+      <data key="d2">-73.9916089</data>
+      <data key="d3">3</data>
+    </node>
+    <node id="42519202">
+      <data key="d1">40.7009921</data>
+      <data key="d2">-73.9913099</data>
+      <data key="d3">3</data>
+    </node>
+    <node id="5649546987">
+      <data key="d1">40.7008046</data>
+      <data key="d2">-73.9910857</data>
+      <data key="d4">traffic_signals</data>
+      <data key="d3">3</data>
+    </node>
+    <node id="2842884234">
+      <data key="d1">40.6998634</data>
+      <data key="d2">-73.9910877</data>
+      <data key="d4">traffic_signals</data>
+      <data key="d3">4</data>
+    </node>
+    <node id="6224369594">
+      <data key="d1">40.6998917</data>
+      <data key="d2">-73.9911875</data>
+      <data key="d4">crossing</data>
+      <data key="d3">3</data>
+    </node>
+    <node id="219785432">
+      <data key="d1">40.6994114</data>
+      <data key="d2">-73.9914115</data>
+      <data key="d3">3</data>
+    </node>
+    <node id="2100701384">
+      <data key="d1">40.6993841</data>
+      <data key="d2">-73.9914552</data>
+      <data key="d3">3</data>
+    </node>
+    <node id="1767282046">
+      <data key="d1">40.6993605</data>
+      <data key="d2">-73.9914566</data>
+      <data key="d3">3</data>
+    </node>
+    <node id="2842884228">
+      <data key="d1">40.6993322</data>
+      <data key="d2">-73.9913445</data>
+      <data key="d3">3</data>
+    </node>
+    <node id="2842884211">
+      <data key="d1">40.698291</data>
+      <data key="d2">-73.9914959</data>
+      <data key="d4">traffic_signals</data>
+      <data key="d3">4</data>
+    </node>
+    <node id="2842884214">
+      <data key="d1">40.6983563</data>
+      <data key="d2">-73.9918256</data>
+      <data key="d3">1</data>
+    </node>
+    <node id="2842884210">
+      <data key="d1">40.6977744</data>
+      <data key="d2">-73.9914813</data>
+      <data key="d3">3</data>
+    </node>
+    <node id="42517603">
+      <data key="d1">40.6970203</data>
+      <data key="d2">-73.9913738</data>
+      <data key="d4">traffic_signals</data>
+      <data key="d3">4</data>
+    </node>
+    <node id="598043774">
+      <data key="d1">40.6964373</data>
+      <data key="d2">-73.9912357</data>
+      <data key="d4">crossing</data>
+      <data key="d3">4</data>
+    </node>
+    <node id="598043775">
+      <data key="d1">40.6963728</data>
+      <data key="d2">-73.9912205</data>
+      <data key="d4">traffic_signals</data>
+      <data key="d3">3</data>
+    </node>
+    <node id="598043776">
+      <data key="d1">40.6961856</data>
+      <data key="d2">-73.9911649</data>
+      <data key="d4">traffic_signals</data>
+      <data key="d3">4</data>
+    </node>
+    <node id="42530376">
+      <data key="d1">40.6961502</data>
+      <data key="d2">-73.9900629</data>
+      <data key="d3">4</data>
+    </node>
+    <node id="4019305696">
+      <data key="d1">40.6961282</data>
+      <data key="d2">-73.9890544</data>
+      <data key="d4">crossing</data>
+      <data key="d3">4</data>
+    </node>
+    <node id="42492415">
+      <data key="d1">40.6961211</data>
+      <data key="d2">-73.9888885</data>
+      <data key="d3">4</data>
+    </node>
+    <node id="4019305942">
+      <data key="d1">40.6960174</data>
+      <data key="d2">-73.9888925</data>
+      <data key="d4">crossing</data>
+      <data key="d3">4</data>
+    </node>
+    <node id="42481888">
+      <data key="d1">40.6950214</data>
+      <data key="d2">-73.9889433</data>
+      <data key="d4">traffic_signals</data>
+      <data key="d3">4</data>
+    </node>
+    <node id="5802138867">
+      <data key="d1">40.6947789</data>
+      <data key="d2">-73.9889581</data>
+      <data key="d3">4</data>
+    </node>
+    <node id="4487604244">
+      <data key="d1">40.6931303</data>
+      <data key="d2">-73.9891143</data>
+      <data key="d3">3</data>
+    </node>
+    <node id="278634702">
+      <data key="d1">40.6924231</data>
+      <data key="d2">-73.9890555</data>
+      <data key="d3">3</data>
+    </node>
+    <node id="42464823">
+      <data key="d1">40.692166</data>
+      <data key="d2">-73.9891215</data>
+      <data key="d4">traffic_signals</data>
+      <data key="d3">4</data>
+    </node>
+    <node id="278630368">
+      <data key="d1">40.6920879</data>
+      <data key="d2">-73.9889306</data>
+      <data key="d4">traffic_signals</data>
+      <data key="d3">4</data>
+    </node>
+    <node id="42464824">
+      <data key="d1">40.6918024</data>
+      <data key="d2">-73.9882134</data>
+      <data key="d4">traffic_signals</data>
+      <data key="d3">4</data>
+    </node>
+    <node id="42464827">
+      <data key="d1">40.6914546</data>
+      <data key="d2">-73.9873387</data>
+      <data key="d4">traffic_signals</data>
+      <data key="d3">4</data>
+    </node>
+    <node id="588036470">
+      <data key="d1">40.691084</data>
+      <data key="d2">-73.9864155</data>
+      <data key="d4">traffic_signals</data>
+      <data key="d3">4</data>
+    </node>
+    <node id="42464832">
+      <data key="d1">40.690663</data>
+      <data key="d2">-73.9853532</data>
+      <data key="d4">traffic_signals</data>
+      <data key="d3">3</data>
+    </node>
+    <node id="42464834">
+      <data key="d1">40.690561</data>
+      <data key="d2">-73.985105</data>
+      <data key="d4">traffic_signals</data>
+      <data key="d3">3</data>
+    </node>
+    <node id="42464836">
+      <data key="d1">40.690292</data>
+      <data key="d2">-73.984433</data>
+      <data key="d4">traffic_signals</data>
+      <data key="d3">3</data>
+    </node>
+    <node id="42464838">
+      <data key="d1">40.6901442</data>
+      <data key="d2">-73.9840614</data>
+      <data key="d4">traffic_signals</data>
+      <data key="d3">3</data>
+    </node>
+    <node id="2696777590">
+      <data key="d1">40.6899461</data>
+      <data key="d2">-73.983563</data>
+      <data key="d3">4</data>
+    </node>
+    <node id="42464844">
+      <data key="d1">40.6897015</data>
+      <data key="d2">-73.9829511</data>
+      <data key="d4">traffic_signals</data>
+      <data key="d3">5</data>
+    </node>
+    <node id="42464847">
+      <data key="d1">40.689358</data>
+      <data key="d2">-73.982098</data>
+      <data key="d3">3</data>
+    </node>
+    <node id="42464848">
+      <data key="d1">40.6889411</data>
+      <data key="d2">-73.9810499</data>
+      <data key="d4">traffic_signals</data>
+      <data key="d3">4</data>
+    </node>
+    <node id="1258875754">
+      <data key="d1">40.688872</data>
+      <data key="d2">-73.9808694</data>
+      <data key="d4">traffic_signals</data>
+      <data key="d3">4</data>
+    </node>
+    <node id="42464852">
+      <data key="d1">40.688638</data>
+      <data key="d2">-73.980258</data>
+      <data key="d3">3</data>
+    </node>
+    <node id="42464854">
+      <data key="d1">40.688254</data>
+      <data key="d2">-73.979286</data>
+      <data key="d4">traffic_signals</data>
+      <data key="d3">4</data>
+    </node>
+    <node id="42464855">
+      <data key="d1">40.687867</data>
+      <data key="d2">-73.978335</data>
+      <data key="d4">traffic_signals</data>
+      <data key="d3">4</data>
+    </node>
+    <node id="5832506893">
+      <data key="d1">40.6878238</data>
+      <data key="d2">-73.9782314</data>
+      <data key="d4">crossing</data>
+      <data key="d3">4</data>
+    </node>
+    <node id="5780018160">
+      <data key="d1">40.6875695</data>
+      <data key="d2">-73.9775828</data>
+      <data key="d4">crossing</data>
+      <data key="d3">4</data>
+    </node>
+    <node id="42464856">
+      <data key="d1">40.6875345</data>
+      <data key="d2">-73.9774945</data>
+      <data key="d4">traffic_signals</data>
+      <data key="d3">4</data>
+    </node>
+    <node id="5780018154">
+      <data key="d1">40.6874869</data>
+      <data key="d2">-73.9773785</data>
+      <data key="d4">crossing</data>
+      <data key="d3">4</data>
+    </node>
+    <node id="5780018153">
+      <data key="d1">40.6873979</data>
+      <data key="d2">-73.9773377</data>
+      <data key="d3">3</data>
+    </node>
+    <node id="5780018158">
+      <data key="d1">40.6871135</data>
+      <data key="d2">-73.9766487</data>
+      <data key="d3">4</data>
+    </node>
+    <node id="5832506892">
+      <data key="d1">40.6870799</data>
+      <data key="d2">-73.9765675</data>
+      <data key="d3">4</data>
+    </node>
+    <node id="4514804309">
+      <data key="d1">40.6870089</data>
+      <data key="d2">-73.976382</data>
+      <data key="d4">crossing</data>
+      <data key="d3">3</data>
+    </node>
+    <node id="42464861">
+      <data key="d1">40.687025</data>
+      <data key="d2">-73.976206</data>
+      <data key="d4">traffic_signals</data>
+      <data key="d3">4</data>
+    </node>
+    <node id="7396994886">
+      <data key="d1">40.6868811</data>
+      <data key="d2">-73.9758376</data>
+      <data key="d3">3</data>
+    </node>
+    <node id="42464864">
+      <data key="d1">40.686757</data>
+      <data key="d2">-73.97552</data>
+      <data key="d4">traffic_signals</data>
+      <data key="d3">4</data>
+    </node>
+    <node id="42464866">
+      <data key="d1">40.686309</data>
+      <data key="d2">-73.97444</data>
+      <data key="d4">traffic_signals</data>
+      <data key="d3">4</data>
+    </node>
+    <node id="42464871">
+      <data key="d1">40.685885</data>
+      <data key="d2">-73.973374</data>
+      <data key="d3">3</data>
+    </node>
+    <node id="42464905">
+      <data key="d1">40.6857654</data>
+      <data key="d2">-73.9730827</data>
+      <data key="d4">traffic_signals</data>
+      <data key="d3">5</data>
+    </node>
+    <node id="42464918">
+      <data key="d1">40.6854443</data>
+      <data key="d2">-73.9722843</data>
+      <data key="d4">traffic_signals</data>
+      <data key="d3">4</data>
+    </node>
+    <node id="42464923">
+      <data key="d1">40.6850196</data>
+      <data key="d2">-73.9712227</data>
+      <data key="d4">traffic_signals</data>
+      <data key="d3">5</data>
+    </node>
+    <node id="42464925">
+      <data key="d1">40.6846209</data>
+      <data key="d2">-73.9702299</data>
+      <data key="d4">traffic_signals</data>
+      <data key="d3">3</data>
+    </node>
+    <node id="42464929">
+      <data key="d1">40.6841532</data>
+      <data key="d2">-73.9690628</data>
+      <data key="d4">traffic_signals</data>
+      <data key="d3">4</data>
+    </node>
+    <node id="42464930">
+      <data key="d1">40.6839983</data>
+      <data key="d2">-73.9686759</data>
+      <data key="d3">3</data>
+    </node>
+    <node id="42464932">
+      <data key="d1">40.683717</data>
+      <data key="d2">-73.9679554</data>
+      <data key="d4">traffic_signals</data>
+      <data key="d3">4</data>
+    </node>
+    <node id="42464934">
+      <data key="d1">40.6834804</data>
+      <data key="d2">-73.9668909</data>
+      <data key="d4">traffic_signals</data>
+      <data key="d3">4</data>
+    </node>
+    <node id="42464936">
+      <data key="d1">40.683267</data>
+      <data key="d2">-73.965865</data>
+      <data key="d4">traffic_signals</data>
+      <data key="d3">4</data>
+    </node>
+    <node id="42464938">
+      <data key="d1">40.68304</data>
+      <data key="d2">-73.964779</data>
+      <data key="d4">traffic_signals</data>
+      <data key="d3">4</data>
+    </node>
+    <node id="42464941">
+      <data key="d1">40.682807</data>
+      <data key="d2">-73.963664</data>
+      <data key="d4">traffic_signals</data>
+      <data key="d3">4</data>
+    </node>
+    <node id="42464945">
+      <data key="d1">40.6825936</data>
+      <data key="d2">-73.9626445</data>
+      <data key="d3">4</data>
+    </node>
+    <node id="5533091530">
+      <data key="d1">40.6825471</data>
+      <data key="d2">-73.9624226</data>
+      <data key="d3">3</data>
+    </node>
+    <node id="42464948">
+      <data key="d1">40.682375</data>
+      <data key="d2">-73.961611</data>
+      <data key="d4">traffic_signals</data>
+      <data key="d3">4</data>
+    </node>
+    <node id="42464564">
+      <data key="d1">40.682162</data>
+      <data key="d2">-73.960595</data>
+      <data key="d3">3</data>
+    </node>
+    <node id="42464953">
+      <data key="d1">40.681953</data>
+      <data key="d2">-73.959595</data>
+      <data key="d3">3</data>
+    </node>
+    <node id="42464955">
+      <data key="d1">40.681743</data>
+      <data key="d2">-73.958586</data>
+      <data key="d4">traffic_signals</data>
+      <data key="d3">4</data>
+    </node>
+    <node id="42464958">
+      <data key="d1">40.681484</data>
+      <data key="d2">-73.957351</data>
+      <data key="d3">3</data>
+    </node>
+    <node id="42464960">
+      <data key="d1">40.681137</data>
+      <data key="d2">-73.955666</data>
+      <data key="d4">traffic_signals</data>
+      <data key="d3">4</data>
+    </node>
+    <node id="42464964">
+      <data key="d1">40.680858</data>
+      <data key="d2">-73.954403</data>
+      <data key="d3">3</data>
+    </node>
+    <node id="42464967">
+      <data key="d1">40.6806432</data>
+      <data key="d2">-73.9533698</data>
+      <data key="d4">traffic_signals</data>
+      <data key="d3">4</data>
+    </node>
+    <node id="42464972">
+      <data key="d1">40.680478</data>
+      <data key="d2">-73.9511857</data>
+      <data key="d4">traffic_signals</data>
+      <data key="d3">3</data>
+    </node>
+    <node id="42464975">
+      <data key="d1">40.6803897</data>
+      <data key="d2">-73.9495611</data>
+      <data key="d4">traffic_signals</data>
+      <data key="d3">4</data>
+    </node>
+    <node id="42464977">
+      <data key="d1">40.680292</data>
+      <data key="d2">-73.947731</data>
+      <data key="d3">3</data>
+    </node>
+    <node id="42464979">
+      <data key="d1">40.68024</data>
+      <data key="d2">-73.946749</data>
+      <data key="d4">traffic_signals</data>
+      <data key="d3">3</data>
+    </node>
+    <node id="42464982">
+      <data key="d1">40.6802151</data>
+      <data key="d2">-73.9463448</data>
+      <data key="d4">traffic_signals</data>
+      <data key="d3">3</data>
+    </node>
+    <node id="42464985">
+      <data key="d1">40.680088</data>
+      <data key="d2">-73.943973</data>
+      <data key="d4">traffic_signals</data>
+      <data key="d3">3</data>
+    </node>
+    <node id="42464988">
+      <data key="d1">40.680051</data>
+      <data key="d2">-73.943262</data>
+      <data key="d4">traffic_signals</data>
+      <data key="d3">3</data>
+    </node>
+    <node id="4224536022">
+      <data key="d1">40.679938</data>
+      <data key="d2">-73.941209</data>
+      <data key="d4">traffic_signals</data>
+      <data key="d3">3</data>
+    </node>
+    <node id="42464995">
+      <data key="d1">40.6798893</data>
+      <data key="d2">-73.9403341</data>
+      <data key="d4">traffic_signals</data>
+      <data key="d3">3</data>
+    </node>
+    <node id="5062944258">
+      <data key="d1">40.679865</data>
+      <data key="d2">-73.9398871</data>
+      <data key="d3">3</data>
+    </node>
+    <node id="5062944255">
+      <data key="d1">40.6798523</data>
+      <data key="d2">-73.9396551</data>
+      <data key="d3">3</data>
+    </node>
+    <node id="42464999">
+      <data key="d1">40.679786</data>
+      <data key="d2">-73.938436</data>
+      <data key="d4">traffic_signals</data>
+      <data key="d3">4</data>
+    </node>
+    <node id="42465002">
+      <data key="d1">40.67973</data>
+      <data key="d2">-73.937398</data>
+      <data key="d4">traffic_signals</data>
+      <data key="d3">3</data>
+    </node>
+    <node id="42465008">
+      <data key="d1">40.679593</data>
+      <data key="d2">-73.934872</data>
+      <data key="d4">traffic_signals</data>
+      <data key="d3">4</data>
+    </node>
+    <node id="42465011">
+      <data key="d1">40.679564</data>
+      <data key="d2">-73.934351</data>
+      <data key="d3">3</data>
+    </node>
+    <node id="1642909682">
+      <data key="d1">40.6794862</data>
+      <data key="d2">-73.932919</data>
+      <data key="d3">3</data>
+    </node>
+    <node id="42465016">
+      <data key="d1">40.679485</data>
+      <data key="d2">-73.932897</data>
+      <data key="d4">traffic_signals</data>
+      <data key="d3">3</data>
+    </node>
+    <node id="1642909737">
+      <data key="d1">40.6794</data>
+      <data key="d2">-73.931766</data>
+      <data key="d3">3</data>
+    </node>
+    <node id="42460654">
+      <data key="d1">40.6793663</data>
+      <data key="d2">-73.9313332</data>
+      <data key="d4">traffic_signals</data>
+      <data key="d3">3</data>
+    </node>
+    <node id="7644375276">
+      <data key="d1">40.6793425</data>
+      <data key="d2">-73.9307258</data>
+      <data key="d3">3</data>
+    </node>
+    <node id="7644375277">
+      <data key="d1">40.6793348</data>
+      <data key="d2">-73.9305316</data>
+      <data key="d3">3</data>
+    </node>
+    <node id="6545280301">
+      <data key="d1">40.6792919</data>
+      <data key="d2">-73.9294386</data>
+      <data key="d3">3</data>
+    </node>
+    <node id="42465019">
+      <data key="d1">40.679277</data>
+      <data key="d2">-73.929058</data>
+      <data key="d4">traffic_signals</data>
+      <data key="d3">4</data>
+    </node>
+    <node id="6545280304">
+      <data key="d1">40.6792585</data>
+      <data key="d2">-73.9287238</data>
+      <data key="d3">3</data>
+    </node>
+    <node id="42465024">
+      <data key="d1">40.679183</data>
+      <data key="d2">-73.927356</data>
+      <data key="d4">traffic_signals</data>
+      <data key="d3">3</data>
+    </node>
+    <node id="42465027">
+      <data key="d1">40.6791425</data>
+      <data key="d2">-73.9265655</data>
+      <data key="d3">3</data>
+    </node>
+    <node id="42465030">
+      <data key="d1">40.6790715</data>
+      <data key="d2">-73.925279</data>
+      <data key="d4">traffic_signals</data>
+      <data key="d3">3</data>
+    </node>
+    <node id="42465033">
+      <data key="d1">40.679032</data>
+      <data key="d2">-73.924593</data>
+      <data key="d4">traffic_signals</data>
+      <data key="d3">3</data>
+    </node>
+    <node id="8904004315">
+      <data key="d1">40.6789536</data>
+      <data key="d2">-73.9231698</data>
+      <data key="d3">3</data>
+    </node>
+    <node id="6882221847">
+      <data key="d1">40.6789365</data>
+      <data key="d2">-73.9228586</data>
+      <data key="d3">3</data>
+    </node>
+    <node id="42465036">
+      <data key="d1">40.678917</data>
+      <data key="d2">-73.922505</data>
+      <data key="d3">3</data>
+    </node>
+    <node id="42465040">
+      <data key="d1">40.67887</data>
+      <data key="d2">-73.921646</data>
+      <data key="d4">traffic_signals</data>
+      <data key="d3">5</data>
+    </node>
+    <node id="5488505763">
+      <data key="d1">40.678402</data>
+      <data key="d2">-73.9216863</data>
+      <data key="d3">3</data>
+    </node>
+    <node id="5488505768">
+      <data key="d1">40.6788051</data>
+      <data key="d2">-73.9204984</data>
+      <data key="d3">3</data>
+    </node>
+    <node id="42465043">
+      <data key="d1">40.6787307</data>
+      <data key="d2">-73.9191197</data>
+      <data key="d4">traffic_signals</data>
+      <data key="d3">4</data>
+    </node>
+    <node id="42465047">
+      <data key="d1">40.678669</data>
+      <data key="d2">-73.917968</data>
+      <data key="d3">3</data>
+    </node>
+    <node id="2800241803">
+      <data key="d1">40.6786222</data>
+      <data key="d2">-73.9172046</data>
+      <data key="d3">3</data>
+    </node>
+    <node id="42465054">
+      <data key="d1">40.678577</data>
+      <data key="d2">-73.916301</data>
+      <data key="d4">traffic_signals</data>
+      <data key="d3">4</data>
+    </node>
+    <node id="42465062">
+      <data key="d1">40.678427</data>
+      <data key="d2">-73.913559</data>
+      <data key="d4">traffic_signals</data>
+      <data key="d3">4</data>
+    </node>
+    <node id="42465069">
+      <data key="d1">40.6783986</data>
+      <data key="d2">-73.9130362</data>
+      <data key="d3">3</data>
+    </node>
+    <node id="42465072">
+      <data key="d1">40.6782898</data>
+      <data key="d2">-73.9108023</data>
+      <data key="d4">traffic_signals</data>
+      <data key="d3">4</data>
+    </node>
+    <node id="42465075">
+      <data key="d1">40.6781761</data>
+      <data key="d2">-73.90907</data>
+      <data key="d3">3</data>
+    </node>
+    <node id="1260335132">
+      <data key="d1">40.6781163</data>
+      <data key="d2">-73.9079255</data>
+      <data key="d4">traffic_signals</data>
+      <data key="d3">4</data>
+    </node>
+    <node id="42465076">
+      <data key="d1">40.678112</data>
+      <data key="d2">-73.9077562</data>
+      <data key="d4">traffic_signals</data>
+      <data key="d3">4</data>
+    </node>
+    <node id="42465078">
+      <data key="d1">40.6780087</data>
+      <data key="d2">-73.9059828</data>
+      <data key="d3">4</data>
+    </node>
+    <node id="5690545731">
+      <data key="d1">40.6778746</data>
+      <data key="d2">-73.9034611</data>
+      <data key="d3">4</data>
+    </node>
+    <node id="42465082">
+      <data key="d1">40.6778656</data>
+      <data key="d2">-73.9033375</data>
+      <data key="d4">traffic_signals</data>
+      <data key="d3">5</data>
+    </node>
+    <node id="5690545730">
+      <data key="d1">40.6778563</data>
+      <data key="d2">-73.9032084</data>
+      <data key="d3">4</data>
+    </node>
+    <node id="597773177">
+      <data key="d1">40.6775774</data>
+      <data key="d2">-73.9022392</data>
+      <data key="d3">3</data>
+    </node>
+    <node id="6857547529">
+      <data key="d1">40.67751</data>
+      <data key="d2">-73.9020535</data>
+      <data key="d3">3</data>
+    </node>
+    <node id="6857547532">
+      <data key="d1">40.6773867</data>
+      <data key="d2">-73.9017075</data>
+      <data key="d3">3</data>
+    </node>
+    <node id="588465809">
+      <data key="d1">40.6772202</data>
+      <data key="d2">-73.9012132</data>
+      <data key="d3">3</data>
+    </node>
+    <node id="597773173">
+      <data key="d1">40.6769209</data>
+      <data key="d2">-73.9008948</data>
+      <data key="d3">3</data>
+    </node>
+    <node id="597773094">
+      <data key="d1">40.6766891</data>
+      <data key="d2">-73.9007242</data>
+      <data key="d4">traffic_signals</data>
+      <data key="d3">4</data>
+    </node>
+    <node id="597773095">
+      <data key="d1">40.6765773</data>
+      <data key="d2">-73.9006419</data>
+      <data key="d4">traffic_signals</data>
+      <data key="d3">3</data>
+    </node>
+    <node id="597773107">
+      <data key="d1">40.6768225</data>
+      <data key="d2">-73.9000317</data>
+      <data key="d4">traffic_signals</data>
+      <data key="d3">5</data>
+    </node>
+    <node id="42464662">
+      <data key="d1">40.6769394</data>
+      <data key="d2">-73.9001336</data>
+      <data key="d4">traffic_signals</data>
+      <data key="d3">4</data>
+    </node>
+    <node id="42465084">
+      <data key="d1">40.6771274</data>
+      <data key="d2">-73.9004289</data>
+      <data key="d3">4</data>
+    </node>
+    <node id="42468791">
+      <data key="d1">40.6789451</data>
+      <data key="d2">-73.9035789</data>
+      <data key="d3">3</data>
+    </node>
+    <node id="4970873186">
+      <data key="d1">40.6788815</data>
+      <data key="d2">-73.9035587</data>
+      <data key="d3">3</data>
+    </node>
+    <node id="5708663658">
+      <data key="d1">40.67881</data>
+      <data key="d2">-73.9035365</data>
+      <data key="d3">3</data>
+    </node>
+    <node id="5728132592">
+      <data key="d1">40.6779607</data>
+      <data key="d2">-73.9034242</data>
+      <data key="d3">4</data>
+    </node>
+    <edge id="0" source="7648015506" target="8262935330" />
+    <edge id="0" source="7648015506" target="42469329" />
+    <edge id="0" source="8262935330" target="7648015506" />
+    <edge id="0" source="42469329" target="214362644" />
+    <edge id="0" source="214362644" target="999184452" />
+    <edge id="0" source="999184452" target="8262934769" />
+    <edge id="0" source="8262934769" target="8262934768" />
+    <edge id="0" source="8262934768" target="8262934770" />
+    <edge id="0" source="8262934770" target="3174844139" />
+    <edge id="0" source="3174844139" target="3174844149" />
+    <edge id="0" source="3174844149" target="3174844145" />
+    <edge id="0" source="3174844145" target="598054754" />
+    <edge id="0" source="598054754" target="3174844140" />
+    <edge id="0" source="3174844140" target="465132522" />
+    <edge id="0" source="465132522" target="7014570048" />
+    <edge id="0" source="7014570048" target="42519202" />
+    <edge id="0" source="42519202" target="5649546987" />
+    <edge id="0" source="5649546987" target="2842884234" />
+    <edge id="0" source="2842884234" target="6224369594" />
+    <edge id="0" source="6224369594" target="219785432" />
+    <edge id="1" source="6224369594" target="219785432" />
+    <edge id="0" source="219785432" target="6224369594" />
+    <edge id="0" source="219785432" target="2100701384" />
+    <edge id="0" source="2100701384" target="1767282046" />
+    <edge id="0" source="1767282046" target="2842884228" />
+    <edge id="0" source="2842884228" target="2842884211" />
+    <edge id="0" source="2842884211" target="2842884214" />
+    <edge id="0" source="2842884211" target="2842884210" />
+    <edge id="0" source="2842884214" target="2842884211" />
+    <edge id="0" source="2842884210" target="42517603" />
+    <edge id="0" source="42517603" target="598043774" />
+    <edge id="1" source="42517603" target="598043774" />
+    <edge id="0" source="598043774" target="42517603" />
+    <edge id="0" source="598043774" target="598043775" />
+    <edge id="0" source="598043775" target="598043776" />
+    <edge id="0" source="598043776" target="42530376" />
+    <edge id="0" source="42530376" target="4019305696" />
+    <edge id="0" source="4019305696" target="42492415" />
+    <edge id="0" source="42492415" target="4019305942" />
+    <edge id="0" source="4019305942" target="42481888" />
+    <edge id="0" source="42481888" target="5802138867" />
+    <edge id="0" source="5802138867" target="4487604244" />
+    <edge id="0" source="4487604244" target="278634702" />
+    <edge id="0" source="278634702" target="42464823" />
+    <edge id="0" source="42464823" target="278630368" />
+    <edge id="0" source="278630368" target="42464824" />
+    <edge id="0" source="42464824" target="42464827" />
+    <edge id="1" source="42464824" target="42464827" />
+    <edge id="0" source="42464827" target="42464824" />
+    <edge id="0" source="42464827" target="588036470" />
+    <edge id="0" source="588036470" target="42464832" />
+    <edge id="0" source="42464832" target="42464834" />
+    <edge id="0" source="42464834" target="42464836" />
+    <edge id="0" source="42464836" target="42464838" />
+    <edge id="0" source="42464838" target="2696777590" />
+    <edge id="0" source="2696777590" target="42464844" />
+    <edge id="1" source="2696777590" target="42464844" />
+    <edge id="0" source="42464844" target="2696777590" />
+    <edge id="0" source="42464844" target="42464847" />
+    <edge id="0" source="42464847" target="42464848" />
+    <edge id="0" source="42464848" target="1258875754" />
+    <edge id="0" source="1258875754" target="42464852" />
+    <edge id="0" source="42464852" target="42464854" />
+    <edge id="0" source="42464854" target="42464855" />
+    <edge id="1" source="42464854" target="42464855" />
+    <edge id="0" source="42464855" target="42464854" />
+    <edge id="0" source="42464855" target="5832506893" />
+    <edge id="0" source="5832506893" target="5780018160" />
+    <edge id="0" source="5780018160" target="42464856" />
+    <edge id="0" source="42464856" target="5780018154" />
+    <edge id="0" source="5780018154" target="5780018153" />
+    <edge id="0" source="5780018153" target="5780018158" />
+    <edge id="1" source="5780018153" target="5780018158" />
+    <edge id="0" source="5780018158" target="5780018153" />
+    <edge id="0" source="5780018158" target="5832506892" />
+    <edge id="0" source="5832506892" target="4514804309" />
+    <edge id="0" source="4514804309" target="42464861" />
+    <edge id="0" source="42464861" target="7396994886" />
+    <edge id="0" source="7396994886" target="42464864" />
+    <edge id="0" source="42464864" target="42464866" />
+    <edge id="0" source="42464866" target="42464871" />
+    <edge id="0" source="42464871" target="42464905" />
+    <edge id="0" source="42464905" target="42464918" />
+    <edge id="0" source="42464918" target="42464923" />
+    <edge id="0" source="42464923" target="42464925" />
+    <edge id="0" source="42464925" target="42464929" />
+    <edge id="0" source="42464929" target="42464930" />
+    <edge id="0" source="42464930" target="42464932" />
+    <edge id="0" source="42464932" target="42464934" />
+    <edge id="0" source="42464934" target="42464936" />
+    <edge id="0" source="42464936" target="42464938" />
+    <edge id="0" source="42464938" target="42464941" />
+    <edge id="0" source="42464941" target="42464945" />
+    <edge id="1" source="42464941" target="42464945" />
+    <edge id="0" source="42464945" target="42464941" />
+    <edge id="0" source="42464945" target="5533091530" />
+    <edge id="0" source="5533091530" target="42464948" />
+    <edge id="1" source="5533091530" target="42464948" />
+    <edge id="0" source="42464948" target="5533091530" />
+    <edge id="0" source="42464948" target="42464564" />
+    <edge id="0" source="42464564" target="42464953" />
+    <edge id="0" source="42464953" target="42464955" />
+    <edge id="0" source="42464955" target="42464958" />
+    <edge id="0" source="42464958" target="42464960" />
+    <edge id="0" source="42464960" target="42464964" />
+    <edge id="0" source="42464964" target="42464967" />
+    <edge id="0" source="42464967" target="42464972" />
+    <edge id="0" source="42464972" target="42464975" />
+    <edge id="0" source="42464975" target="42464977" />
+    <edge id="0" source="42464977" target="42464979" />
+    <edge id="0" source="42464979" target="42464982" />
+    <edge id="0" source="42464982" target="42464985" />
+    <edge id="1" source="42464982" target="42464985" />
+    <edge id="0" source="42464985" target="42464982" />
+    <edge id="0" source="42464985" target="42464988" />
+    <edge id="0" source="42464988" target="4224536022" />
+    <edge id="0" source="4224536022" target="42464995" />
+    <edge id="0" source="42464995" target="5062944258" />
+    <edge id="0" source="5062944258" target="5062944255" />
+    <edge id="0" source="5062944255" target="42464999" />
+    <edge id="0" source="42464999" target="42465002" />
+    <edge id="0" source="42465002" target="42465008" />
+    <edge id="0" source="42465008" target="42465011" />
+    <edge id="0" source="42465011" target="1642909682" />
+    <edge id="0" source="1642909682" target="42465016" />
+    <edge id="0" source="42465016" target="1642909737" />
+    <edge id="0" source="1642909737" target="42460654" />
+    <edge id="0" source="42460654" target="7644375276" />
+    <edge id="0" source="7644375276" target="7644375277" />
+    <edge id="0" source="7644375277" target="6545280301" />
+    <edge id="0" source="6545280301" target="42465019" />
+    <edge id="0" source="42465019" target="6545280304" />
+    <edge id="0" source="6545280304" target="42465024" />
+    <edge id="1" source="6545280304" target="42465024" />
+    <edge id="0" source="42465024" target="6545280304" />
+    <edge id="0" source="42465024" target="42465027" />
+    <edge id="0" source="42465027" target="42465030" />
+    <edge id="0" source="42465030" target="42465033" />
+    <edge id="0" source="42465033" target="8904004315" />
+    <edge id="0" source="8904004315" target="6882221847" />
+    <edge id="0" source="6882221847" target="42465036" />
+    <edge id="0" source="42465036" target="42465040" />
+    <edge id="0" source="42465040" target="5488505763" />
+    <edge id="0" source="5488505763" target="5488505768" />
+    <edge id="0" source="5488505768" target="42465043" />
+    <edge id="0" source="42465043" target="42465047" />
+    <edge id="0" source="42465047" target="2800241803" />
+    <edge id="0" source="2800241803" target="42465054" />
+    <edge id="0" source="42465054" target="42465062" />
+    <edge id="0" source="42465062" target="42465069" />
+    <edge id="0" source="42465069" target="42465072" />
+    <edge id="0" source="42465072" target="42465075" />
+    <edge id="0" source="42465075" target="1260335132" />
+    <edge id="1" source="42465075" target="1260335132" />
+    <edge id="0" source="1260335132" target="42465075" />
+    <edge id="0" source="1260335132" target="42465076" />
+    <edge id="0" source="42465076" target="42465078" />
+    <edge id="0" source="42465078" target="5690545731" />
+    <edge id="0" source="5690545731" target="42465082" />
+    <edge id="0" source="42465082" target="5690545730" />
+    <edge id="1" source="42465082" target="5690545730" />
+    <edge id="0" source="5690545730" target="597773177" />
+    <edge id="1" source="5690545730" target="597773177" />
+    <edge id="0" source="597773177" target="6857547529" />
+    <edge id="1" source="597773177" target="6857547529" />
+    <edge id="0" source="6857547529" target="6857547532" />
+    <edge id="1" source="6857547529" target="6857547532" />
+    <edge id="0" source="6857547532" target="588465809" />
+    <edge id="1" source="6857547532" target="588465809" />
+    <edge id="0" source="588465809" target="597773173" />
+    <edge id="1" source="588465809" target="597773173" />
+    <edge id="0" source="597773173" target="597773094" />
+    <edge id="1" source="597773173" target="597773094" />
+    <edge id="0" source="597773094" target="597773095" />
+    <edge id="1" source="597773094" target="597773095" />
+    <edge id="0" source="597773095" target="597773107" />
+    <edge id="0" source="597773107" target="42464662" />
+    <edge id="0" source="42464662" target="42465084" />
+    <edge id="0" source="42465084" target="42468791" />
+    <edge id="0" source="42468791" target="4970873186" />
+    <edge id="0" source="4970873186" target="5708663658" />
+    <edge id="0" source="5708663658" target="5728132592" />
+    <edge id="0" source="5728132592" target="42465082" />
+    <data key="d0">EPSG:4326</data>
+  </graph>
+</graphml>
