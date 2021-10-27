@@ -1,3 +1,7 @@
-data/
-notebooks/.ipynb_checkpoints/
-notebooks/cache
+data/exports
+src/.ipynb_checkpoints
+src/cache
+archives/data/
+archives/manhattan/
+archives/notebooks/.ipynb_checkpoints/
+archives/notebooks/cache
