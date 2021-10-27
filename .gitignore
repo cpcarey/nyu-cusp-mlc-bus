@@ -1,4 +1,7 @@
-data/exports
+data/exports/graphml/*
+data/exports/gtfs/*
+data/exports/img/*
+data/exports/json/*
 src/notebooks/.ipynb_checkpoints
 src/notebooks/cache
 archives/data/
